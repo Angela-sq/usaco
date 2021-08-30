@@ -9,6 +9,13 @@
             "name": "Launch ride",
             "request": "launch",
             "mainClass": "ride",
+            "projectName": "usaco-1_72e94a6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ride",
+            "request": "launch",
+            "mainClass": "ride",
             "projectName": "usaco_682eca16"
         },
         {
